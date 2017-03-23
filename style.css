@@ -1,0 +1,21 @@
+body {
+    background: dodgerblue;
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+}
+
+h1 {
+    font-size: 5rem;
+}
+
+button {
+    font-size: 2rem;
+    padding: 0.7rem;
+    border-radius: 5%
+}
+
+#result, #timer {
+    font-size: 3rem;
+    margin-top: 3%;
+}
